@@ -1,0 +1,164 @@
+# File will follow the form: 
+# <UserID> <NumLikedArticles> <NumDislikedArticles>
+# <LikedURL1> 
+# <LikedURL2>
+# <LikedURL3>
+# ...
+# <DislikedURL1> 
+# <DislikedURL2> 
+# <DislikedURL3>
+# ...
+# 
+# Order of Participants: Ashley, Olivia, Matt, Annie, Tami, Julio
+1 10 10
+http://mashable.com/2013/01/07/car-of-the-future-infographic/
+http://mashable.com/2013/01/07/fujifilm-50x-superzoom/
+http://mashable.com/2013/01/08/snow-dogs/
+http://mashable.com/2013/01/10/cats-in-pajamas/
+http://mashable.com/2013/01/09/grumpy-cat-coffee-ermahgerd/
+http://mashable.com/2013/01/09/iphone-case-art/
+http://mashable.com/2013/01/09/toyotas-self-driving-car/
+http://mashable.com/2013/01/10/amazon-free-movies-books/
+http://mashable.com/2013/01/10/the-future-of-shopping/
+http://mashable.com/2013/01/11/puppy-stairs/
+http://mashable.com/2013/01/07/mcafee-spying/
+http://mashable.com/2013/01/08/japanese-cat-bomb-hacker/
+http://mashable.com/2013/01/08/artist-drone-pilots-craigslist-fbi/
+http://mashable.com/2013/01/09/bieber-4chan-hoax/
+http://mashable.com/2013/01/10/baby-clothing-infant-death/
+http://mashable.com/2013/01/10/creepy-robotic-spider-dress/
+http://mashable.com/2013/01/10/grossest-thing/
+http://mashable.com/2013/01/11/friends-dating-website/
+http://mashable.com/2013/01/12/bacon-shaving-cream/
+http://mashable.com/2013/01/22/kris-humphries-kanye-west-jr-smith-tweet/
+2 10 14
+http://mashable.com/2014/12/18/san-francisco-bay-lights-stay-lit/
+http://mashable.com/2014/12/22/excited-puppy/
+http://mashable.com/2013/01/09/gopro-videos/
+http://mashable.com/2013/01/09/zendesk-valley-girl/
+http://mashable.com/2013/01/10/earth-like-planet-confirm-exists/
+http://mashable.com/2013/01/11/a-cappella-remix-no-diggity/
+http://mashable.com/2013/01/11/puppy-stairs/
+http://mashable.com/2013/01/11/rubiks-cube-braille/
+http://mashable.com/2013/01/11/students-program-space-station-satellites/
+http://mashable.com/2014/12/16/same-sex-couples-marry-scotland/
+http://mashable.com/2014/12/16/warning-college-may-be-a-waste-of-your-time-and-money/
+http://mashable.com/2014/12/17/anna-kendrick-sex-toy/
+http://mashable.com/2014/12/17/guys-on-tinder/
+http://mashable.com/2014/12/17/russians-booze-cereal-ruble/
+http://mashable.com/2014/12/18/kim-jong-un-death-the-interview/
+http://mashable.com/2014/11/19/taco-bell-mugshot/
+http://mashable.com/2014/11/19/thor-sexy-tips/
+http://mashable.com/2014/11/16/introverts-online-dating/
+http://mashable.com/2014/11/09/passive-aggressive-gifts/
+http://mashable.com/2014/11/07/victorias-secret-perfect-body/
+http://mashable.com/2014/11/04/republicans-control-senate/
+http://mashable.com/2014/11/03/emma-watson-dead-hamster/
+http://mashable.com/2014/10/31/sexy-phd-costume-reviews/
+http://mashable.com/2014/10/23/employee-quitting-lessons/
+3 10 10
+http://mashable.com/2013/01/07/youtube-future-tv/
+http://mashable.com/2013/01/11/minecraft-server-lobby/
+http://mashable.com/2013/01/16/facebook-twitter-flu/
+http://mashable.com/2013/01/17/facebook-police-shot/
+http://mashable.com/2013/01/15/smart-cat-kido/
+http://mashable.com/2013/01/24/irobots-medical-robot-gets-fda-approval-for-hospital-use/
+http://mashable.com/2013/02/04/geeks-civil-liberties/
+http://mashable.com/2013/02/04/gay-rights-boy-scouts/
+http://mashable.com/2013/02/04/ramen-bowl/
+http://mashable.com/2013/02/08/robots-drones-classroom/
+http://mashable.com/2013/01/20/totally-look-like-presidents/
+http://mashable.com/2013/01/18/nasa-beams-mona-lisa-to-moon/
+http://mashable.com/2013/01/14/how-to-land-a-job-at-birchbox/
+http://mashable.com/2013/01/13/iphone-strings-attached/
+http://mashable.com/2013/01/14/apple-cuts-orders-iphone5/
+http://mashable.com/2013/01/10/why-are-people-still-buying-cds/
+http://mashable.com/2013/01/18/google-password-alternatives/
+http://mashable.com/2013/01/14/disney-wreck-it-ralph-8-bit-lane/
+http://mashable.com/2013/01/10/2013-oscar-predictions-polls/
+http://mashable.com/2013/01/16/sisters-viral-facebook-puppy/
+4 9 9
+http://mashable.com/2013/01/07/dad-jokes/
+http://mashable.com/2013/01/09/celeb-mean-tweets/
+http://mashable.com/2013/01/10/laptop-vending-machine/
+http://mashable.com/2013/01/10/how-to-ace-job-interview/
+http://mashable.com/2013/01/10/google-europe-search/
+http://mashable.com/2013/01/12/top-news-stories-1-12/
+http://mashable.com/2013/01/12/how-to-know-telling-the-truth/
+http://mashable.com/2013/01/15/china-pollution-space/
+http://mashable.com/2013/01/11/youtube-office-pranks/
+http://mashable.com/2013/01/15/chrome-beta-voice/
+http://mashable.com/2013/01/15/color-scheme-tools/
+http://mashable.com/2013/01/15/comscore-online-video-ads/
+http://mashable.com/2013/01/14/coldplay-safe-road/
+http://mashable.com/2013/01/14/darpa-deep-sea-sensors/
+http://mashable.com/2013/01/14/dvf-pinterest-giveaway/
+http://mashable.com/2013/01/14/exclusive-download-party-kids-by-sallie-ford-the-sound-outside/
+http://mashable.com/2013/01/11/justice-league-currency/
+http://mashable.com/2013/01/11/minecraft-server-lobby/
+5 17 23
+http://mashable.com/2013/01/07/car-of-the-future-infographic/
+http://mashable.com/2013/01/07/dad-jokes/
+http://mashable.com/2013/01/15/robots-cook-in-restaurant/
+http://mashable.com/2013/01/17/larry-page-criticizes-facebook/
+http://mashable.com/2013/01/22/ashton-kutcher-steve-jobs-macworld/
+http://mashable.com/2013/01/22/new-asteroid-mining-venture/
+http://mashable.com/2013/01/23/cool-snowman-sculptures/
+http://mashable.com/2013/01/28/college-degrees-most-money/
+http://mashable.com/2013/01/30/doritos-super-bowl-ad-2013/
+http://mashable.com/2013/01/30/tv-reporter-videobomber-std/
+http://mashable.com/2013/01/31/cat-vines/
+http://mashable.com/2013/02/04/cool-vine-art-videos/
+http://mashable.com/2013/02/04/good-advertising-at-the-super-bowl/
+http://mashable.com/2013/02/10/thrift-shop-dogs/
+http://mashable.com/2013/02/12/weird-craigslist-items/
+http://mashable.com/2013/02/14/student-wins-tuition-buzzer-beater/
+http://mashable.com/2013/02/15/3d-printed-house/
+http://mashable.com/2013/01/07/ap-samsung-sponsored-tweets/
+http://mashable.com/2013/01/07/bodymedia-armbandgets-update/
+http://mashable.com/2013/01/07/nvidia-tegra-4/
+http://mashable.com/2013/01/07/one-directions-kiss-you-video-is-here-after-barrage-of-web-teasers/
+http://mashable.com/2013/01/10/baby-clothing-infant-death/
+http://mashable.com/2013/01/10/creepy-robotic-spider-dress/
+http://mashable.com/2013/01/14/disney-wreck-it-ralph-8-bit-lane/
+http://mashable.com/2013/01/15/coke-ad-takes-on-obesity/
+http://mashable.com/2013/01/15/this-is-what-little-mark-zuckerberg-looked-like/
+http://mashable.com/2013/01/15/we-the-people-petitions/
+http://mashable.com/2013/01/16/obama-biden-gun-reform/
+http://mashable.com/2013/01/16/obama-game-violence/
+http://mashable.com/2013/01/17/how-to-watch-oprahs-lance-armstrong-interview-online/
+http://mashable.com/2013/01/17/playboy-porn-children/
+http://mashable.com/2013/01/22/justin-bieber-passes-lady-gaga-as-most-followed-on-twitter/
+http://mashable.com/2013/01/22/kris-humphries-kanye-west-jr-smith-tweet/
+http://mashable.com/2013/01/23/national-handwriting-day/
+http://mashable.com/2013/01/24/zuckerberg-christie-fundraiser/
+http://mashable.com/2013/01/25/glee-baby-got-back-jonathan-coulton/
+http://mashable.com/2013/01/25/michael-jackson-amazon-book/
+http://mashable.com/2013/01/28/disney-tomorrowland-1952/
+http://mashable.com/2013/01/28/vine-porn/
+http://mashable.com/2013/01/28/woman-eats-cat-hair/
+6 10 14
+http://mashable.com/2013/01/07/dad-jokes/
+http://mashable.com/2013/01/07/entrepreneur-trends-2013/
+http://mashable.com/2013/01/07/traffic-signals-bugs/
+http://mashable.com/2013/01/11/big-data-design-privacy/
+http://mashable.com/2013/01/13/kid-cat-fails/
+http://mashable.com/2013/01/14/tina-fey-amy-poehler-jokes/
+http://mashable.com/2013/01/15/adam-carolla-launches-video-podcast-network-on-youtube/
+http://mashable.com/2013/01/16/office-pranks/
+http://mashable.com/2013/01/17/tesla-electric-car/
+http://mashable.com/2013/01/31/super-bowl-ads-banned/
+http://mashable.com/2013/02/04/beyonce-jay-z-super-bowl-instagram/
+http://mashable.com/2013/02/05/diy-beer-pong-table/
+http://mashable.com/2013/02/05/grammys-winners-predictions-spotify/
+http://mashable.com/2013/02/05/java-security-brief/
+http://mashable.com/2013/02/08/winter-storm-nemo-space/
+http://mashable.com/2013/02/10/wedding-proposal-videos/
+http://mashable.com/2013/02/11/grammy-nominees-you-forgot/
+http://mashable.com/2013/02/11/grammys-who-should-have-won/
+http://mashable.com/2013/03/25/ford-apologizes-for-ad-in-india-kardashians/
+http://mashable.com/2013/04/03/mario-nintendo-tech-support/
+http://mashable.com/2013/05/08/robin-williams-kim-kardashian-twitter/
+http://mashable.com/2013/06/17/beyonce-congratulates-kanye-kim-kardashian/
+http://mashable.com/2013/06/20/north-west-kardashian-twitter/
+http://mashable.com/2014/03/21/kim-kardashian-kanye-west-vogue/
